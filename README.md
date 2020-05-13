@@ -1,6 +1,5 @@
-# docsTemplate
-its just a template Repository for documentation
+# my-Experiments-Notes-ANN
 
-```
-git clone https://github.com/c17hawke/docsTemplate
-```
+This repository contains my experiments and notes on ANN.
+
+This is a work in progress. Hence there will be continuous updates in this repository as the time progresses.
