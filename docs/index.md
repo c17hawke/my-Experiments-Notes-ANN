@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Introduction to ANN
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Why I started learning ANN?
 
-## Commands
+I really admire nature and Artificial Neural Network was also inspired from biological neural nets and as I was a biology student as well and thus it really made me curious to learn about this tech. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+And to understand ANN one should know the basics of BNN. 
 
-## Project layout
+!!! quote
+    To understand brain you should build one
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    - Lex Fridman 
+
+Similarly to understand what we can do with ANN and why is it so important let's learn to build one.
+
+Although ANN was inspired by BNN but still its quite different from that.
+
+
+

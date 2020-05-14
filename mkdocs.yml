@@ -16,8 +16,8 @@ theme:
     - tabs
   language: en
   palette:
-    primary: red
-    accent: red
+    primary: cyan
+    accent: cyan
 
 extra:
   social:
