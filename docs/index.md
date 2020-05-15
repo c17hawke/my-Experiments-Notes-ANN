@@ -1,10 +1,11 @@
 # Introduction to ANN
 
-## Why I started learning ANN?
+## ANN models were inspired from BNN.
 
-I really admire nature and Artificial Neural Network was also inspired from biological neural nets and as I was a biology student as well and thus it really made me curious to learn about this tech. 
+To understand ANN one should know the basics of BNN. ANNs were first introduced by Warren McCulloh (Neuro)
 
-And to understand ANN one should know the basics of BNN. 
+
+## Why should we learn about ANN ?
 
 !!! quote
     To understand brain you should build one
@@ -14,6 +15,4 @@ And to understand ANN one should know the basics of BNN.
 Similarly to understand what we can do with ANN and why is it so important let's learn to build one.
 
 Although ANN was inspired by BNN but still its quite different from that.
-
-
 
